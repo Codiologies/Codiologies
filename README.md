@@ -1,4 +1,4 @@
-![logo](https://github.com/WiggleByte3900/WiggleByte3900/blob/main/GITHUB%20BANNER.JPG)
+![logo]()
 <h1 align="center">Hi 👋, I'm SAJAL GUPTA</h1>
 <h3 align="center">PASSIONATE TO LEARN ETHICAL HACKING</h3>
 
