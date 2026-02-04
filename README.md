@@ -1,4 +1,4 @@
-![logo](https://github.com/Codiologies/Codiologies/blob/main/GITHUB%20BANNER.JPG)
+![logo](https://github.com/Codiologies/Codiologies/blob/main/PROFILE%20BANNER.JPG)
 <h1 align="center">Hi 👋, I'm SAJAL GUPTA</h1>
 <h3 align="center">PASSIONATE TO LEARN ETHICAL HACKING</h3>
 
