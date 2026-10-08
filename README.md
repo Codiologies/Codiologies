@@ -1,4 +1,6 @@
-![banner](https://github.com/Codiologies/Codiologies/blob/main/GITHUB%20BANNER.JPG)
+<!-- ===================== HEADER BANNER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d2e,100:00ff9c&height=230&section=header&text=SAJAL%20GUPTA&fontSize=60&fontColor=00ff9c&fontAlignY=38&desc=ETHICAL%20HACKER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn" alt="SAJAL GUPTA banner" />
 
 <!-- ===================== INTRO ===================== -->
 
@@ -9,13 +11,19 @@ sajal@codiologies:~$ whoami
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sajal+Gupta+%F0%9F%91%8B;Aspiring+Ethical+Hacker;Cybersecurity+%26+Penetration+Testing;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=HI%2C+I'M+SAJAL+GUPTA+%F0%9F%91%8B;ASPIRING+ETHICAL+HACKER;CYBERSECURITY+%26+PENETRATION+TESTING;ALWAYS+LEARNING%2C+ALWAYS+SECURING" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Codiologies&label=Profile%20Views&color=00ff9c&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff9c?style=flat-square&logo=hackthebox&logoColor=black" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff9c?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Codiologies&label=PROFILE%20VIEWS&color=00ff9c&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=flat-square&logo=hackthebox&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00ff9c?style=flat-square" alt="Status" />
+</p>
+
+<p>
+  <a href="https://guptasajal.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-guptasajal.com-00ff9c?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+  </a>
 </p>
 
 </div>
@@ -34,6 +42,7 @@ class SajalGupta:
         self.role          = "Ethical Hacking & Cybersecurity Enthusiast"
         self.focus         = ["Penetration Testing", "Web Security", "Network Security"]
         self.languages     = ["Python", "C", "C++", "Java", "JavaScript"]
+        self.portfolio     = "https://guptasajal.com"
         self.currently     = "Sharpening offensive & defensive security skills"
         self.mindset       = "Break it to understand it. Secure it to protect it."
 
@@ -107,6 +116,12 @@ class SajalGupta:
 ## 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://guptasajal.com" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-guptasajal.com-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117" alt="Portfolio" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/sajalgupta2812/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
