@@ -1,115 +1,34 @@
-<!-- ============================================================= -->
-<!--             SAJAL GUPTA · PURPLE DASHBOARD THEME             -->
-<!-- ============================================================= -->
+![logo](https://github.com/Codiologies/Codiologies/blob/main/GITHUB%20BANNER.JPG)
+<h1 align="center">Hi 👋, I'm SAJAL GUPTA</h1>
+<h3 align="center">PASSIONATE TO LEARN ETHICAL HACKING</h3>
 
-<div align="center">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcJcQ9CPfBV8e4c0LJhOvnFHAg7PAJ_qpyAmT01T8wPmR5yLoJ">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:7c3aed,100:a855f7&height=140&section=header&text=SAJAL%20GUPTA&fontSize=54&fontColor=ffffff&fontAlignY=52&desc=Ethical%20Hacker%20%2F%2F%20Cybersecurity%20Enthusiast&descAlignY=82&descSize=16&descColor=ede9fe" alt="Sajal Gupta" />
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codiologies&label=Profile%20views&color=0e75b6&style=flat" alt="Codiologies" /> </p>
 
-<a href="https://guptasajal.com"><img src="https://img.shields.io/badge/@sajalgupta-a855f7?style=flat-square&logo=github&logoColor=white&labelColor=1b1130" alt="handle" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-India-a855f7?style=flat-square&logoColor=white&labelColor=1b1130" alt="location" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Codiologies&label=Profile%20views&color=a855f7&style=flat-square" alt="views" />
+<p align="left"> <a href="https://www.linkedin.com/in/sajalgupta2812/" target="blank"><img src="https://img.shields.io/twitter/follow/linkedin?logo=twitter&style=for-the-badge" alt="linkedin" /></a> </p>
 
-<br/><br/>
+- 🌱 I’m currently learning **Ethical Hacking**
 
-<a href="https://instagram.com/codiologies"><img src="https://img.shields.io/badge/Instagram-1b1130?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="instagram" /></a>
-<a href="https://www.linkedin.com/in/sajalgupta2812/"><img src="https://img.shields.io/badge/LinkedIn-1b1130?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="linkedin" /></a>
-<a href="https://twitter.com/codiologies"><img src="https://img.shields.io/badge/Twitter-1b1130?style=for-the-badge&logo=twitter&logoColor=a855f7" alt="twitter" /></a>
-<a href="https://www.youtube.com/@codiologies"><img src="https://img.shields.io/badge/YouTube-1b1130?style=for-the-badge&logo=youtube&logoColor=a855f7" alt="youtube" /></a>
+- ⚡ Fun fact **Ethical Hacking Having A Fun......😊**
 
-<br/>
-
-<a href="https://guptasajal.com"><img src="https://img.shields.io/badge/●%20FOLLOW%20MY%20PORTFOLIO%20%E2%86%92%20GUPTASAJAL.COM-7c3aed?style=for-the-badge&labelColor=7c3aed&logoColor=white" alt="portfolio" /></a>
-
-</div>
-
-<br/>
-
-<!-- ===================== STAT CARDS ===================== -->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Codiologies&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d0417&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&border_color=7c3aed&border_radius=18&card_width=480" alt="stat cards" />
-
-</div>
-
-<br/>
-
-<!-- ===================== SKILLS ===================== -->
-
-### 🧷 &nbsp; Skills
-
-![UI Design](https://img.shields.io/badge/UI_Design-1b1130?style=flat-square&labelColor=1b1130&color=2a1a45)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-2a1a45?style=flat-square)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-2a1a45?style=flat-square)
-![Web Security](https://img.shields.io/badge/Web_Security-2a1a45?style=flat-square)
-![Network Security](https://img.shields.io/badge/Network_Security-2a1a45?style=flat-square)
-![Python](https://img.shields.io/badge/Python-2a1a45?style=flat-square&logo=python&logoColor=a855f7)
-![C](https://img.shields.io/badge/C-2a1a45?style=flat-square&logo=c&logoColor=a855f7)
-![C++](https://img.shields.io/badge/C++-2a1a45?style=flat-square&logo=cplusplus&logoColor=a855f7)
-![Java](https://img.shields.io/badge/Java-2a1a45?style=flat-square&logo=openjdk&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-2a1a45?style=flat-square&logo=javascript&logoColor=a855f7)
-![HTML](https://img.shields.io/badge/HTML-2a1a45?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS](https://img.shields.io/badge/CSS-2a1a45?style=flat-square&logo=css3&logoColor=a855f7)
-![React](https://img.shields.io/badge/React-2a1a45?style=flat-square&logo=react&logoColor=a855f7)
-![Django](https://img.shields.io/badge/Django-2a1a45?style=flat-square&logo=django&logoColor=a855f7)
-![Linux](https://img.shields.io/badge/Linux-2a1a45?style=flat-square&logo=linux&logoColor=a855f7)
-![Kali](https://img.shields.io/badge/Kali-2a1a45?style=flat-square&logo=kalilinux&logoColor=a855f7)
-![Wireshark](https://img.shields.io/badge/Wireshark-2a1a45?style=flat-square&logo=wireshark&logoColor=a855f7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-2a1a45?style=flat-square&logo=burpsuite&logoColor=a855f7)
-![Docker](https://img.shields.io/badge/Docker-2a1a45?style=flat-square&logo=docker&logoColor=a855f7)
-![MySQL](https://img.shields.io/badge/MySQL-2a1a45?style=flat-square&logo=mysql&logoColor=a855f7)
-![AWS](https://img.shields.io/badge/AWS-2a1a45?style=flat-square&logo=amazonaws&logoColor=a855f7)
-
-<br/>
-
-<!-- ===================== PINNED REPOS ===================== -->
-
-### 📌 &nbsp; Pinned Repository
-
-<!--
-  TIP: replace the `repo=` value below with your real repository names.
-  Format: https://github-readme-stats.vercel.app/api/pin/?username=Codiologies&repo=YOUR_REPO
--->
-
-<p>
-<a href="https://github.com/Codiologies/Codiologies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codiologies&repo=Codiologies&theme=transparent&title_color=a855f7&text_color=e9d5ff&icon_color=c084fc&border_color=7c3aed&border_radius=18" alt="repo 1" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/codiologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codiologies" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajalgupta2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajalgupta2812" height="30" width="40" /></a>
+<a href="https://instagram.com/codiologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sx.0008" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codiologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codiologies" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/codiologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codiologies" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codiologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codiologies" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/codiologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="w" height="30" width="40" /></a>
 </p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Codiologies&&show_icons=true&theme=dark" alt="Codiologies" /></p>
 
-### 📊 &nbsp; Contribution in this year
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiologies&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codiologies&bg_color=0d0417&color=e9d5ff&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-
-<br/>
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codiologies&layout=compact&hide_title=true&bg_color=0d0417&text_color=e9d5ff&border_color=7c3aed&border_radius=18" alt="top langs" />
-&nbsp;
-<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Codiologies&hide_border=true&background=0d0417&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=8b7aa8&stroke=7c3aed&border_radius=18" alt="streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>💜 &nbsp; <b>Open to collaboration, internships & security-focused roles</b> &nbsp; 💜</sub>
-
-<br/>
-
-<a href="https://guptasajal.com"><img src="https://img.shields.io/badge/View%20Activity%20%E2%86%92-a855f7?style=flat-square&labelColor=1b1130" alt="view activity" /></a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:a855f7,100:7c3aed&height=70&section=footer" alt="footer" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Codiologies&" alt="Codiologies" /></p>
